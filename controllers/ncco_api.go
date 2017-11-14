@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/astaxie/beego"
-	"github.com/ncco_middleware/nccologic"
+	"github.com/chenxisdp/ncco_middleware/nccologic"
 )
 
 type NccoController struct {

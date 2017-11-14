@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/ncco_middleware/controllers"
+	"github.com/chenxisdp/ncco_middleware/controllers"
 )
 
 func main() {
